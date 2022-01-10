@@ -21,7 +21,7 @@ To write a program to perform selection sort and insertion sort using python pro
 i)	#Selection Sort
 ~~~
 Program to sort the elements in the list using the Selection Sort algorithm.
-Developed by: your name: Shrruthilaya G
+Developed by: Shrruthilaya G
 RegisterNumber: 21002893
 def selection_sort(nums):
     # write your code here using selection sort
@@ -44,7 +44,7 @@ ii)	#Insertion Sort
 ~~~
 
 Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: your name: Shrruthilaya G
+Developed by: Shrruthilaya G
 RegisterNumber: 21002893
 def insertion_sort(nums):
     # Write your code here to sort the elements in the list using Insertion sort algorithm
